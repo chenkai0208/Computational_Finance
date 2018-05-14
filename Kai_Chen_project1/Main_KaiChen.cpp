@@ -6,14 +6,6 @@
 // Description : Project1 for Computational Finance
 //============================================================================
 
-/* 
-Dear Grader and TA, this time I did not use any IDE to finish the project. 
-What I did was just write all the codes and compile them using my gcc compiler.
-Sorry for any inconvinience that I might cause. If it is not easy for you to test
-my codes, please let me know and I will try my best to test my codes on IDE first 
-next time. Thanks for your understanding!
-*/
-
 #include <iostream>
 #include <cmath>
 #include <fstream>
