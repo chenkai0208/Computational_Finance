@@ -10,3 +10,6 @@ In this project, Monte Carlo simulation is used to price barrier options. Antith
 
 ## Project 3: Random Number Generator
 In this project, some classical random number generators are implemented in a C++ configuration. The generated random numbers are first used for option pricing. Then they are used to generate another sets of normal random numbers, which are compared with the true probability distribution for a standard normal variable. All the details are in [report3](Kai_Chen_project3/Kai_Chen_report3.pdf).
+
+## Project 4: Path-dependent Option Pricing
+In this project, Sobol sequence is implemented to generate Quasi-random numbers for option pricing by Monte Carlo simulation. The results are compared with the prices given by Park-Miller Pseudo-random number generator.
