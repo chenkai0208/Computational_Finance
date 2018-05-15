@@ -4,3 +4,6 @@ Students learn how to implement financial option-pricing and risk-management mod
 
 ## Project 1: European-style Vanila Option
 In this project, we use some classical numerical methods to conduct Monte Carlo simulations for the purpose of pricing European vanila options. The detailed explanation on the methods and procedures can be found in [report1](Kai_Chen_project1/Kai_Chen_report1.pdf).
+
+## Project 2: Barrier Option Pricing
+In this project, Monte Carlo simulation is used to price barrier options. Antithetic variates method is implemented to reduce the variance of results. In addition, the control variates algorithm is conducted to raise the accuracy of pricing. Check more detail in [report2](Kai_Chen_project2/Kai_Chen_report2.pdf).
